@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const Effect = () => {
+const UseEffect = () => {
   // const [books, setBooks] = useState([]);
 
   // 컴포넌트가 랜더링(그려진) 이후에 side effect[부수효과]를 처리하기 위해서 사용함!
@@ -37,4 +37,4 @@ const Effect = () => {
   );
 };
 
-export default Effect;
+export default UseEffect;
